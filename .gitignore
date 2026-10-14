@@ -1,0 +1,75 @@
+# =========================================================================
+# Unity Gitignore Template
+# Place this file exactly at the root of your Unity project directory.
+# =========================================================================
+
+# --- Unity Auto-generated / Temporary Folders ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# --- Memory and Recording Captures ---
+# These can become excessively large and may contain sensitive data
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# --- Asset Store Tools ---
+# Uncomment this if you want to exclude the Asset Store deployment tools
+# /[Aa]ssets/AssetStoreTools*
+
+# --- Crashlytics / Bug Reporting ---
+sysinfo.txt
+crashlytics-build.properties
+
+# --- Native Build Artifacts ---
+.utmp/
+
+# --- JavaScript / WebGL Builds ---
+# If you build for WebGL, these folders are auto-generated
+/[Bb]uild_WebGL/
+
+# --- Android Builds ---
+.gradle/
+/[Aa][Ss][Mm]Def[Cc]ache/
+
+# --- Auto-generated IDE / Project Files ---
+# Visual Studio
+.vs/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.VC.db
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Visual Studio Code
+.vscode/
+
+# --- OS-specific files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Optional Asset Exclusions ---
+# Blender auto-generated backup files
+*.blend1
+*.blend1.meta
