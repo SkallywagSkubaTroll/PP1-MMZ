@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: d922bd1a6cc705e4abb5f3933bbc66b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7550563525991744779
+    second: LeviathanSpawn22_0
+  - first:
+      213: 6406932941801189966
+    second: LeviathanSpawn22_1
+  - first:
+      213: 7017199032184809063
+    second: LeviathanSpawn22_2
+  - first:
+      213: -8112528183897162093
+    second: LeviathanSpawn22_3
+  - first:
+      213: 4956185995485938453
+    second: LeviathanSpawn22_4
+  - first:
+      213: 531218346530482279
+    second: LeviathanSpawn22_5
+  - first:
+      213: -4346716444536325374
+    second: LeviathanSpawn22_6
+  - first:
+      213: -7145749940840446629
+    second: LeviathanSpawn22_7
+  - first:
+      213: 7551540632947959876
+    second: LeviathanSpawn22_8
+  - first:
+      213: -1681695434000448352
+    second: LeviathanSpawn22_9
+  - first:
+      213: 2205959624684181457
+    second: LeviathanSpawn22_10
+  - first:
+      213: -3670323695820643487
+    second: LeviathanSpawn22_11
+  - first:
+      213: 6599188354233506032
+    second: LeviathanSpawn22_12
+  - first:
+      213: -1573029444247285371
+    second: LeviathanSpawn22_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LeviathanSpawn22_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 89
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0542c4b58df8c860800000000000000
+      internalID: 7550563525991744779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42fecfa09ff9e850800000000000000
+      internalID: 6406932941801189966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766279f4759126160800000000000000
+      internalID: 7017199032184809063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef67849928a6f80800000000000000
+      internalID: -8112528183897162093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51384b567e8e7c440800000000000000
+      internalID: 4956185995485938453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768ae1b85444f5700800000000000000
+      internalID: 531218346530482279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b30107c6c5da3c0800000000000000
+      internalID: -4346716444536325374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55cf62e94235dc90800000000000000
+      internalID: -7145749940840446629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 99
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448aac522367cc860800000000000000
+      internalID: 7551540632947959876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4c10ca9ea69a8e0800000000000000
+      internalID: -1681695434000448352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 93
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7972a47942d9e10800000000000000
+      internalID: 2205959624684181457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 91
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16369eb7b04601dc0800000000000000
+      internalID: -3670323695820643487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f89bfb18d6059b50800000000000000
+      internalID: 6599188354233506032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LeviathanSpawn22_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 83
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58119620e0a7b2ae0800000000000000
+      internalID: -1573029444247285371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LeviathanSpawn22_0: 7550563525991744779
+      LeviathanSpawn22_1: 6406932941801189966
+      LeviathanSpawn22_10: 2205959624684181457
+      LeviathanSpawn22_11: -3670323695820643487
+      LeviathanSpawn22_12: 6599188354233506032
+      LeviathanSpawn22_13: -1573029444247285371
+      LeviathanSpawn22_2: 7017199032184809063
+      LeviathanSpawn22_3: -8112528183897162093
+      LeviathanSpawn22_4: 4956185995485938453
+      LeviathanSpawn22_5: 531218346530482279
+      LeviathanSpawn22_6: -4346716444536325374
+      LeviathanSpawn22_7: -7145749940840446629
+      LeviathanSpawn22_8: 7551540632947959876
+      LeviathanSpawn22_9: -1681695434000448352
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
